@@ -22,7 +22,7 @@
 
 - **Version Control**: GitHub/Gitlab
 
-- **O**S: Linux, Windows
+- **OS**: Linux, Windows
 
 
 # EDUCATION 
