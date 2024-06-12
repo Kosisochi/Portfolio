@@ -1,32 +1,33 @@
-# Data Analyst, Buisness Intelligence Analyst, Data Scientsit, AI
+# Data Analysis, Buisness Intelligence Analysis, Data Science, Artificial Intelligence
 
-# COMPETENCIES
-- Data Science/Machine Learning/AI: TensorFlow/Keras, Pytorch, Azure Open AI Service
-
-- Data Analysis: SQL, NumPy, Pandas, Scikit Learn, Excel
-
-- Data Visualization: PowerBI, Tableau, Looker, Matplotlib, Seaborn
-
-- Data Engineering: Snowflake, Databricks, MS Azure, Google Cloud Platform
-
-- Programming: Python, DAX
-
-- Version Control: GitHub/Gitlab
-
-- OS: Linux, Windows
 
 # PROJECTS
-**Covid Data Analysis**
+**Covid Data Analysis:** Insert Link to Project
 
-**Fashion Data Analysis**
+**Fashion Data Analysis:** Insert Link to Project
 
-**Text Model Building**
+**Text Model Building:** Insert Link to Project
+
+
+# COMPETENCIES
+- **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
+
+- **Data Analysis:** SQL, NumPy, Pandas, Scikit Learn, Excel
+
+- **Data Visualization:** PowerBI, Tableau, Looker, Matplotlib, Seaborn
+
+- **Data Engineering:** Snowflake, Databricks, MS Azure, Google Cloud Platform
+
+- **Programming:** Python, DAX
+
+- **Version Control**: GitHub/Gitlab
+
+- **O**S: Linux, Windows
 
 
 # EDUCATION 
-- Ph.D. Artificial Intelligence/Computer Science - [Canadian equivalency as determined by World Education Services (WES):  Ph.D. in Computer Science]	(_Aug 2022_)
+- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022_)
 School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
-Thesis Title: Detection of Online Textual Hate Speech
 
 - M.Eng. Digital Electronic Engineering 	(_Aug 2017_)
 Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
@@ -54,7 +55,7 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 
 
 ## Artificial Intelligence Researcher 
-**Victoria University of Wellington | Wellington, New Zealand 	(_Apr 2019 - May 2022_)**
+**Victoria University of Wellington | Wellington, New Zealand (_Apr 2019 - May 2022_)**
 - 	Designed end-to-end experiments to extract and construct informative features for a supervised text classification task (predictive modelling) to detect hate speech on social media platforms using algorithms such as LSTM, RNN, and CNN with tools like NumPy, Scikit-learn, TensorFlow, Keras, Pytorch and Python.
 - 	Designed unsupervised machine learning experiments based on K-means clustering to identify the target of hate speech text. This reduced dependence on scarce and biased labelled data and introduced model explainability using tools like NumPy, Scikit-learn, TensorFlow, Keras and Python.
 - 	Published the statistically validated research results in peer-reviewed conference proceedings and journal articles.
@@ -70,3 +71,28 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 
 
 ## PUBLICATIONS
+1. MADUKWE, K. J., GAO, X., & XUE, B. “Token Replacement-based
+Data Augmentation Methods for Hate Speech Detection” In World
+Wide Web: Internet and Web Information Systems Journal (Special
+Issue on Web Intelligence: Artificial Intelligence in the Connected
+World) 2022, pp 1129–1150.
+2. MADUKWE, K. J., GAO, X., & XUE, B. “What Emotion Is Hate?
+Incorporating Emotion Information into the Hate Speech Detection
+Task”. In 18th Pacific Rim International Conference on Artificial
+Intelligence, PRICAI 2021, Hanoi, Vietnam, pp 273–286.
+3. MADUKWE, K. J., GAO, X., & XUE, B. “Dependency-Based
+Embedding for Distinguishing Between Hate Speech and Offensive
+Language,” 2020 IEEE/WIC/ACM International Joint Conference
+on Web Intelligence and Intelligent Agent Technology (WI-IAT),
+2020, pp. 860-868.
+4. MADUKWE, K. J., GAO, X., & XUE, B. “In Data We Trust: A Critical
+Analysis of Hate Speech Detection Datasets”. In Proceedings of
+the Fourth Workshop on Online Abuse and Harms(Online, 2020),
+Association of Computational Linguistics (ACL), pp. 150–161
+5.MADUKWE, K. J., GAO, X., & XUE, B. “A GA-based Approach
+to Fine-tuning BERT for Hate Speech Detection”. In 2020 IEEE
+Symposium Series on Computational Intelligence (SSCI)(2020), pp.
+2821–2828.
+6. MADUKWE, K. J., & GAO, X. “The Thin Line Between Hate and
+Profanity”. In AI 2019: Advances in Artificial Intelligence (Cham,
+2019), Springer International Publishing, pp. 344–356
