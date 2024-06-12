@@ -20,14 +20,11 @@
 
 
 # EDUCATION 
-- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022_).
-School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
+- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022_): School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
 
-- M.Eng. Digital Electronic Engineering 	(_Aug 2017_).
-Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
+- M.Eng. Digital Electronic Engineering 	(_Aug 2017_): Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
 
-- B.Eng. Electronic Engineering 	(_Jul 2013_).
-Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria 
+- B.Eng. Electronic Engineering 	(_Jul 2013_): Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria 
 
 
 # WORK EXPERIENCE
@@ -40,6 +37,8 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Minimized ambiguity by 100% during product handover by developing detailed design documents to effectively communicate with and guide the client/stakeholder through each stage.
 - 	Increased output by 25% through the establishment of standardized templates for every deliverable, ensuring consistency which guaranteed superior output quality throughout the team.
 
+
+
 **AI & Data Consultant**
 
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2022 – Jun 2023_)**
@@ -47,7 +46,8 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Reduced onboarding effort of new team members by 60% through maintaining knowledge bases of known issues and fixes and created documentation and manuals to ensure information is recorded, updated, and shared.
 - 	Cultivated robust relationships with key stakeholders by approaching discussions with an open mind, and adeptly gathered requirements through insightful conversations and questions. Produced and presented monthly reports to summarise the operational activities of the key technical stakeholders/owners. 
 - 	Developed and executed SQL scripts to extract and analyze data from large databases for the creation of insightful reports that informed stakeholder decision-making process.
-- 	Delivered coaching and mentorship, which contributed to the professional development and growth of consultants and interns and promoted morale in a constantly changing environment. 
+- 	Delivered coaching and mentorship, which contributed to the professional development and growth of consultants and interns and promoted morale in a constantly changing environment.
+
 
 
 **Artificial Intelligence Researcher** 
@@ -58,6 +58,8 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Published the statistically validated research results in peer-reviewed conference proceedings and journal articles.
 - 	Presented research ideas and findings at 5 international conferences and 2 competitions using Matplotlib and Seaborn for results visualization.
 
+
+
 **University Lecturer**
 
 **Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
@@ -66,6 +68,7 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Supervised 3 undergraduate students' projects, guiding students on methodology, execution and report writing standards leading to academic conference publications and presentations.
 - 	Mentored undergraduate and graduate students, and provided personalized guidance on academic and career paths through the departments' alumni office.
 - 	Elevated the institution’s academic standing. by contributing to research and participating in conferences.
+
 
 
 ## PUBLICATIONS
