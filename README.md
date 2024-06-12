@@ -11,17 +11,11 @@
 
 # COMPETENCIES
 - **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
-
 - **Data Analysis:** SQL, NumPy, Pandas, Scikit Learn, Excel
-
 - **Data Visualization:** PowerBI, Tableau, Looker, Matplotlib, Seaborn
-
 - **Data Engineering:** Snowflake, Databricks, MS Azure, Google Cloud Platform
-
 - **Programming:** Python, DAX
-
 - **Version Control**: GitHub/Gitlab
-
 - **OS**: Linux, Windows
 
 
