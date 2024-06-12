@@ -20,11 +20,11 @@
 
 
 # EDUCATION 
-- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022_): School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
+- Ph.D. Artificial Intelligence/Computer Science (_Aug 2022_): School of Computer Science and Engineering, Victoria University of Wellington, Wellington, New Zealand
 
-- M.Eng. Digital Electronic Engineering 	(_Aug 2017_): Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
+- M.Eng. Digital Electronic Engineering (_Aug 2017_): Department of Electronic Engineering, University of Nigeria, Nsukka, Enugu, Nigeria
 
-- B.Eng. Electronic Engineering 	(_Jul 2013_): Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria 
+- B.Eng. Electronic Engineering (_Jul 2013_): Department of Electronic Engineering, University of Nigeria, Nsukka, Enugu, Nigeria 
 
 
 # WORK EXPERIENCE
