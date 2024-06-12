@@ -26,18 +26,18 @@
 
 
 # EDUCATION 
-- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022_)
+- Ph.D. Artificial Intelligence/Computer Science	(_Aug 2022._)
 School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
 
-- M.Eng. Digital Electronic Engineering 	(_Aug 2017_)
+- M.Eng. Digital Electronic Engineering 	(_Aug 2017._)
 Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
 
-- B.Eng. Electronic Engineering 	(_Jul 2013_)
+- B.Eng. Electronic Engineering 	(_Jul 2013._)
 Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria 
 
 
 # WORK EXPERIENCE
-## Senior AI & Data Consultant
+**Senior AI & Data Consultant**
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2023 – Mar 2024_)**
 - 	Furthered solution design within the firm through the design of Generative AI–based proof of concept for improving internal EY processes and for bidding on client work. This included prompt engineering and building AI apps with Python.
 - 	Established the data-driven capabilities of a client organization through the definition, design, implementation, and testing of metrics and visual reporting build for multiple insightful Operation and Management PowerBI dashboards under stringent time constraints; which included the inaugural integration of diverse data sources on Snowflake
@@ -45,7 +45,7 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Minimized ambiguity by 100% during product handover by developing detailed design documents to effectively communicate with and guide the client/stakeholder through each stage.
 - 	Increased output by 25% through the establishment of standardized templates for every deliverable, ensuring consistency which guaranteed superior output quality throughout the team.
 
-## AI & Data Consultant
+**AI & Data Consultant**
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2022 – Jun 2023_)**
 - 	Reduced backlog by 85% in 3 months by providing timely BAU (Business as Usual) support for a managed service and implementing a batching process for addressing issue tickets, incidents, and tasks.
 - 	Reduced onboarding effort of new team members by 60% through maintaining knowledge bases of known issues and fixes and created documentation and manuals to ensure information is recorded, updated, and shared.
@@ -54,14 +54,14 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Delivered coaching and mentorship, which contributed to the professional development and growth of consultants and interns and promoted morale in a constantly changing environment. 
 
 
-## Artificial Intelligence Researcher 
+**Artificial Intelligence Researcher** 
 **Victoria University of Wellington | Wellington, New Zealand (_Apr 2019 - May 2022_)**
 - 	Designed end-to-end experiments to extract and construct informative features for a supervised text classification task (predictive modelling) to detect hate speech on social media platforms using algorithms such as LSTM, RNN, and CNN with tools like NumPy, Scikit-learn, TensorFlow, Keras, Pytorch and Python.
 - 	Designed unsupervised machine learning experiments based on K-means clustering to identify the target of hate speech text. This reduced dependence on scarce and biased labelled data and introduced model explainability using tools like NumPy, Scikit-learn, TensorFlow, Keras and Python.
 - 	Published the statistically validated research results in peer-reviewed conference proceedings and journal articles.
 - 	Presented research ideas and findings at 5 international conferences and 2 competitions using Matplotlib and Seaborn for results visualization.
 
-## University Lecturer
+**University Lecturer**
 **Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
 - 	Developed comprehensive and engaging lesson plans for 6 undergraduate courses, ensuring alignment with curriculum objectives and consistently received positive student feedback.
 - 	Instructed 3 undergraduate courses, fostered an interactive learning environment, and improved student participation and academic performance.
