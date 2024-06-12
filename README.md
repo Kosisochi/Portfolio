@@ -4,9 +4,15 @@
 # PROJECTS
 **Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
+![Image from Project](/assets/img/eeg_band_discovery.jpeg)
+
 **Fashion Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
+![Image from Project](/assets/img/eeg_band_discovery.jpeg)
+
 
 **Text Model Building:** [Click to view project](https://github.com/Kosisochi/)
+![Image from Project](/assets/img/eeg_band_discovery.jpeg)
+
 
 
 # COMPETENCIES
