@@ -71,28 +71,28 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 
 
 ## PUBLICATIONS
-1. MADUKWE, K. J., GAO, X., & XUE, B. “Token Replacement-based
+1. **MADUKWE, K. J.**, GAO, X., & XUE, B. “Token Replacement-based
 Data Augmentation Methods for Hate Speech Detection” In World
 Wide Web: Internet and Web Information Systems Journal (Special
 Issue on Web Intelligence: Artificial Intelligence in the Connected
 World) 2022, pp 1129–1150.
-2. MADUKWE, K. J., GAO, X., & XUE, B. “What Emotion Is Hate?
+2. **MADUKWE, K. J.**, GAO, X., & XUE, B. “What Emotion Is Hate?
 Incorporating Emotion Information into the Hate Speech Detection
 Task”. In 18th Pacific Rim International Conference on Artificial
 Intelligence, PRICAI 2021, Hanoi, Vietnam, pp 273–286.
-3. MADUKWE, K. J., GAO, X., & XUE, B. “Dependency-Based
+3. **MADUKWE, K. J.**, GAO, X., & XUE, B. “Dependency-Based
 Embedding for Distinguishing Between Hate Speech and Offensive
 Language,” 2020 IEEE/WIC/ACM International Joint Conference
 on Web Intelligence and Intelligent Agent Technology (WI-IAT),
 2020, pp. 860-868.
-4. MADUKWE, K. J., GAO, X., & XUE, B. “In Data We Trust: A Critical
+4. **MADUKWE, K. J.**, GAO, X., & XUE, B. “In Data We Trust: A Critical
 Analysis of Hate Speech Detection Datasets”. In Proceedings of
 the Fourth Workshop on Online Abuse and Harms(Online, 2020),
 Association of Computational Linguistics (ACL), pp. 150–161
-5.MADUKWE, K. J., GAO, X., & XUE, B. “A GA-based Approach
+5. **MADUKWE, K. J.**, GAO, X., & XUE, B. “A GA-based Approach
 to Fine-tuning BERT for Hate Speech Detection”. In 2020 IEEE
 Symposium Series on Computational Intelligence (SSCI)(2020), pp.
 2821–2828.
-6. MADUKWE, K. J., & GAO, X. “The Thin Line Between Hate and
+6. **MADUKWE, K. J.**, & GAO, X. “The Thin Line Between Hate and
 Profanity”. In AI 2019: Advances in Artificial Intelligence (Cham,
 2019), Springer International Publishing, pp. 344–356
