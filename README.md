@@ -24,20 +24,20 @@
 
 
 # EDUCATION 
-- Ph.D. Artificial Intelligence/Computer Science - [Canadian equivalency as determined by World Education Services (WES):  Ph.D. in Computer Science]	Aug 2022
+- Ph.D. Artificial Intelligence/Computer Science - [Canadian equivalency as determined by World Education Services (WES):  Ph.D. in Computer Science]	(_Aug 2022_)
 School of Computer Science and Engineering, Victoria University of Wellington | Wellington, New Zealand
 Thesis Title: Detection of Online Textual Hate Speech
 
 - M.Eng. Digital Electronic Engineering 	(_Aug 2017_)
 Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria
 
-- B.Eng. Electronic Engineering 	Jul 2013
+- B.Eng. Electronic Engineering 	(_Jul 2013_)
 Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria 
 
 
 # WORK EXPERIENCE
 ## Senior AI & Data Consultant
-**Ernst & Young LLP | Wellington, New Zealand	Jun 2023 – Mar 2024**
+**Ernst & Young LLP | Wellington, New Zealand	(_Jun 2023 – Mar 2024_)**
 - 	Furthered solution design within the firm through the design of Generative AI–based proof of concept for improving internal EY processes and for bidding on client work. This included prompt engineering and building AI apps with Python.
 - 	Established the data-driven capabilities of a client organization through the definition, design, implementation, and testing of metrics and visual reporting build for multiple insightful Operation and Management PowerBI dashboards under stringent time constraints; which included the inaugural integration of diverse data sources on Snowflake
 - 	Reduced rework in the product development process by 75% through agile development methods, rapidly wireframing/prototyping the specified requirements; fostering efficient collaboration with product owners.
@@ -45,7 +45,7 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 - 	Increased output by 25% through the establishment of standardized templates for every deliverable, ensuring consistency which guaranteed superior output quality throughout the team.
 
 ## AI & Data Consultant
-**Ernst & Young LLP | Wellington, New Zealand	Jun 2022 – Jun 2023**
+**Ernst & Young LLP | Wellington, New Zealand	(_Jun 2022 – Jun 2023_)**
 - 	Reduced backlog by 85% in 3 months by providing timely BAU (Business as Usual) support for a managed service and implementing a batching process for addressing issue tickets, incidents, and tasks.
 - 	Reduced onboarding effort of new team members by 60% through maintaining knowledge bases of known issues and fixes and created documentation and manuals to ensure information is recorded, updated, and shared.
 - 	Cultivated robust relationships with key stakeholders by approaching discussions with an open mind, and adeptly gathered requirements through insightful conversations and questions. Produced and presented monthly reports to summarise the operational activities of the key technical stakeholders/owners. 
@@ -54,14 +54,14 @@ Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nig
 
 
 ## Artificial Intelligence Researcher 
-**Victoria University of Wellington | Wellington, New Zealand 	Apr 2019 - May 2022**
+**Victoria University of Wellington | Wellington, New Zealand 	(_Apr 2019 - May 2022_)**
 - 	Designed end-to-end experiments to extract and construct informative features for a supervised text classification task (predictive modelling) to detect hate speech on social media platforms using algorithms such as LSTM, RNN, and CNN with tools like NumPy, Scikit-learn, TensorFlow, Keras, Pytorch and Python.
 - 	Designed unsupervised machine learning experiments based on K-means clustering to identify the target of hate speech text. This reduced dependence on scarce and biased labelled data and introduced model explainability using tools like NumPy, Scikit-learn, TensorFlow, Keras and Python.
 - 	Published the statistically validated research results in peer-reviewed conference proceedings and journal articles.
 - 	Presented research ideas and findings at 5 international conferences and 2 competitions using Matplotlib and Seaborn for results visualization.
 
 ## University Lecturer
-**Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	May 2016 – Jan 2019**
+**Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
 - 	Developed comprehensive and engaging lesson plans for 6 undergraduate courses, ensuring alignment with curriculum objectives and consistently received positive student feedback.
 - 	Instructed 3 undergraduate courses, fostered an interactive learning environment, and improved student participation and academic performance.
 - 	Supervised 3 undergraduate students' projects, guiding students on methodology, execution and report writing standards leading to academic conference publications and presentations.
