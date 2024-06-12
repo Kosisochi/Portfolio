@@ -2,11 +2,11 @@
 
 
 # PROJECTS
-**Covid Data Analysis:** Insert Link to Project
+**Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
-**Fashion Data Analysis:** Insert Link to Project
+**Fashion Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
-**Text Model Building:** Insert Link to Project
+**Text Model Building:** [Click to view project](https://github.com/Kosisochi/)
 
 
 # COMPETENCIES
