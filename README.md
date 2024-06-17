@@ -8,6 +8,8 @@
 -[Research Publications](#research-publications)
 
 # Projects
+[**Data Visualization Project**](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
+
 **Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
 ![Image from Project](/assets/img/eeg_band_discovery.jpeg)
