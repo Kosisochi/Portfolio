@@ -1,4 +1,4 @@
-# Data Analysis, Buisness Intelligence Analysis, Data Science, Artificial Intelligence
+# Data Analysis, Business Intelligence Analysis, Data Science, Artificial Intelligence
 
 # Table of Contents
 -[Projects](#projects)
