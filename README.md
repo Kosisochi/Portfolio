@@ -83,7 +83,7 @@
 
 
 
-## Research Publication
+## Research Publications
 1. **MADUKWE, K. J.**, GAO, X., & XUE, B. “Token Replacement-based
 Data Augmentation Methods for Hate Speech Detection” In World
 Wide Web: Internet and Web Information Systems Journal (Special
