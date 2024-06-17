@@ -1,7 +1,13 @@
 # Data Analysis, Buisness Intelligence Analysis, Data Science, Artificial Intelligence
 
+# Table of Contents
+-[Projects](#projects)
+-[Competencies](#competencies)
+-[Education](#education)
+-[Work Experience](#work-experience)
+-[Research Publications](#research-publications)
 
-# PROJECTS
+# Projects
 **Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
 ![Image from Project](/assets/img/eeg_band_discovery.jpeg)
@@ -15,7 +21,7 @@
 
 
 
-# COMPETENCIES
+# Competencies
 - **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
 - **Data Analysis:** SQL, NumPy, Pandas, Scikit Learn, Excel
 - **Data Visualization:** PowerBI, Tableau, Looker, Matplotlib, Seaborn
@@ -25,7 +31,7 @@
 - **OS**: Linux, Windows
 
 
-# EDUCATION 
+# Education
 - Ph.D. Artificial Intelligence/Computer Science (_Aug 2022_): School of Computer Science and Engineering, Victoria University of Wellington, Wellington, New Zealand
 
 - M.Eng. Digital Electronic Engineering (_Aug 2017_): Department of Electronic Engineering, University of Nigeria, Nsukka, Enugu, Nigeria
@@ -33,7 +39,7 @@
 - B.Eng. Electronic Engineering (_Jul 2013_): Department of Electronic Engineering, University of Nigeria, Nsukka, Enugu, Nigeria 
 
 
-# WORK EXPERIENCE
+# Work Experience
 **Senior AI & Data Consultant**
 
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2023 – Mar 2024_)**
@@ -77,7 +83,7 @@
 
 
 
-## PUBLICATIONS
+## Research Publication
 1. **MADUKWE, K. J.**, GAO, X., & XUE, B. “Token Replacement-based
 Data Augmentation Methods for Hate Speech Detection” In World
 Wide Web: Internet and Web Information Systems Journal (Special
