@@ -8,7 +8,9 @@
 -[Research Publications](#research-publications)
 
 # Projects
-[**Data Visualization Project**](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
+[**Data Visualization Project- Myntra Product Catalog Project**](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
+
+[**Data Visualization Project - Top UK YouTubers in 2024 Project**](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Top%20UK%20YouTubers%20Project)
 
 **Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
 
