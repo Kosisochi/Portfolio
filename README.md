@@ -12,18 +12,9 @@
 
 **Data Visualization Project (SQL, PowerBI, Excel) -** [Top UK YouTubers in 2024 Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Top%20UK%20YouTubers%20Project)
 
-**Covid Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
+**Data Exploration (SQL) -** [Covid Vaccination Data Exploration](https://github.com/Kosisochi/DataAnalysisPortfolio/blob/main/Covid%20Vaccination%20Data%20Exploration%20in%20SQL.sql)
 
-![Image from Project](/assets/img/eeg_band_discovery.jpeg)
-
-**Fashion Data Analysis:** [Click to view project](https://github.com/Kosisochi/)
-![Image from Project](/assets/img/eeg_band_discovery.jpeg)
-
-
-**Text Model Building:** [Click to view project](https://github.com/Kosisochi/)
-![Image from Project](/assets/img/eeg_band_discovery.jpeg)
-
-
+**Data Cleaning (SQL)-** [Housing Data Cleaning](https://github.com/Kosisochi/DataAnalysisPortfolio/blob/main/Housing%20Data%20Cleaning%20SQL.sql)
 
 # Competencies
 - **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
