@@ -17,9 +17,9 @@
 **Data Cleaning (SQL)-** [Housing Data Cleaning](https://github.com/Kosisochi/DataAnalysisPortfolio/blob/main/Housing%20Data%20Cleaning%20SQL.sql)
 
 # Competencies
-- **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
 - **Data Analysis:** SQL, NumPy, Pandas, Scikit Learn, Excel
 - **Data Visualization:** PowerBI, Tableau, Looker, Matplotlib, Seaborn
+- **Data Science/Machine Learning/AI:** TensorFlow/Keras, Pytorch, Azure Open AI Service
 - **Data Engineering:** Snowflake, Databricks, MS Azure, Google Cloud Platform
 - **Programming:** Python, DAX
 - **Version Control**: GitHub/Gitlab
