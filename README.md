@@ -35,7 +35,7 @@
 
 
 # Work Experience
-**Senior Business Data Analyst** 
+==**Senior Business Data Analyst**== 
 
 **Bank of Montreal | Toronto, Ontario	( Aug 2024 – Present)**
 - Led the data validation, reconciliation, and cleaning of thousands of third-party supplier records, consolidating multiple data sources into a single, centralized repository, resulting in a 95% reduction in data discrepancies and improved data accuracy.
