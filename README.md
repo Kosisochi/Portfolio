@@ -36,6 +36,7 @@
 
 # Work Experience
 **Senior Business Data Analyst** 
+
 **Bank of Montreal | Toronto, Ontario	(Contract) Aug 2024 – Present**
 - Led the data validation, reconciliation, and cleaning of thousands of third-party supplier records, consolidating multiple data sources into a single, centralized repository, resulting in a 95% reduction in data discrepancies and improved data accuracy.
 - Conducted data quality checks to update supplier records, to handle duplicates and missing data which enhanced data completeness and reduced manual data entry time by 80%.
@@ -45,6 +46,7 @@
 
   
 **Senior AI & Data Consultant**
+
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2023 – Mar 2024_)**
 -	Furthered solution design within the firm through the design of Generative AI–based proof of concept for improving internal EY processes and bidding on client work. This included prompt engineering and building AI apps with Python.
 -	Designed and implemented key performance metrics for asset and work management operations, resulting in a 60% reduction in contractor scheduling conflicts and decreasing critical equipment stock-out from an average of 20 occurrences to 3 per quarter.
@@ -54,6 +56,7 @@
 
 
 **AI & Data Consultant**
+
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2022 – Jun 2023_)**
 - Developed and executed SQL scripts to extract and analyze data from large databases for the creation of insightful reports that informed stakeholder decision-making process.
 - Reduced backlog by 85% in 3 months by providing timely BAU (Business as Usual) support for a managed service and implementing a batching process for addressing issue tickets, incidents, and tasks.
@@ -64,6 +67,7 @@
 
 
 **Artificial Intelligence Researcher** 
+
 **Victoria University of Wellington | Wellington, New Zealand (_Apr 2019 - May 2022_)**
 - Designed end-to-end NLP experiments to extract and construct informative features for a supervised text classification task (predictive modelling) to detect hate speech on social media platforms using algorithms such as LSTM, RNN, and CNN with tools like NumPy, Scikit-learn, TensorFlow, Keras, Pytorch and Python.
 - Designed unsupervised NLP/machine learning experiments based on K-means clustering to identify the target of hate speech text. This reduced dependence on scarce and biased labelled data and introduced model explainability using tools like NumPy, Scikit-learn, TensorFlow, Keras and Python.
@@ -72,7 +76,8 @@
 
 
 
-**University Lecturer**
+**Academic Data Analyst**
+
 **Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
 - Analyzed experimental results from completed digital electronic engineering research for publications and conferences. 
 - Cleaned and analyzed thousands of rows of student examination result data to calculate individual course results and cumulative GPA.
