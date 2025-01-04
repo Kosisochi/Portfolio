@@ -45,7 +45,7 @@
 - 	Automated many multi-system repetitive processes for issue and risk management saving over 300 labor-intensive manual entry hours.
 
   
-**Senior AI & Data Consultant**
+## **Senior AI & Data Consultant**
 
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2023 – Mar 2024_)**
 -	Furthered solution design within the firm through the design of Generative AI–based proof of concept for improving internal EY processes and bidding on client work. This included prompt engineering and building AI apps with Python.
@@ -55,7 +55,7 @@
 -	Significantly minimized ambiguity during product handover by developing detailed design documents to effectively communicate with and guide the client/stakeholder through each stage.
 
 
-**AI & Data Consultant**
+## **AI & Data Consultant**
 
 **Ernst & Young LLP | Wellington, New Zealand	(_Jun 2022 – Jun 2023_)**
 - Developed and executed SQL scripts to extract and analyze data from large databases for the creation of insightful reports that informed stakeholder decision-making process.
@@ -66,7 +66,7 @@
 
 
 
-**Artificial Intelligence Researcher** 
+## **Artificial Intelligence Researcher** 
 
 **Victoria University of Wellington | Wellington, New Zealand (_Apr 2019 - May 2022_)**
 - Designed end-to-end NLP experiments to extract and construct informative features for a supervised text classification task (predictive modelling) to detect hate speech on social media platforms using algorithms such as LSTM, RNN, and CNN with tools like NumPy, Scikit-learn, TensorFlow, Keras, Pytorch and Python.
@@ -76,7 +76,7 @@
 
 
 
-**Academic Data Analyst**
+## **Academic Data Analyst**
 
 **Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
 - Analyzed experimental results from completed digital electronic engineering research for publications and conferences. 
