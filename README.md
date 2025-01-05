@@ -8,7 +8,7 @@
 -[Research Publications](#research-publications)
 
 # Portfolio Projects
-![click link below to view project on github](https://github.com/Kosisochi/Portfolio/blob/main/assets/images/banner.png)
+![click link below to view project on github](https://github.com/Kosisochi/Portfolio/blob/main/assets/images/banner1.png)
 **Data Visualization Project (PowerBI) -** [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
 **Data Visualization Project (SQL, PowerBI, Excel) -** [Top UK YouTubers in 2024 Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Top%20UK%20YouTubers%20Project)
