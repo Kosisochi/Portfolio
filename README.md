@@ -1,4 +1,4 @@
-# Data Analysis, Data Visualization, Business Intelligence, Data Science, Artificial Intelligence
+# Areas of Specialization: Data Analysis, Data Visualization, Business Intelligence, Data Science, Artificial Intelligence
 
 # Table of Contents
 -[Projects](#projects)
