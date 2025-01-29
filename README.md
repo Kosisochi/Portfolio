@@ -8,9 +8,7 @@
 -[Research Publications](#research-publications)
 
 # Portfolio Projects
-**Data Science Project (Python) -**  
-
-**Data Science Project (Python) -**  
+**Data Science Project (Python) -**  [Text Classification](https://github.com/Kosisochi/Text_Classification)
 
 **Data Visualization Project (PowerBI) -** [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
