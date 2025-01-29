@@ -8,6 +8,9 @@
 -[Research Publications](#research-publications)
 
 # Portfolio Projects
+**Data Science Project (Python) -**  
+
+**Data Science Project (Python) -**  
 
 **Data Visualization Project (PowerBI) -** [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
@@ -80,10 +83,11 @@
 ## **Academic Data Analyst**
 
 **Department of Electronic Engineering, University of Nigeria, Nsukka | Enugu, Nigeria	(_May 2016 – Jan 2019_)**
-- Analyzed experimental results from completed digital electronic engineering research for publications and conferences. 
-- Cleaned and analyzed thousands of rows of student examination result data to calculate individual course results and cumulative GPA.
-- Digitized old student records for the alumni office and established validated data collection processes for new records.
-- Designed exam timetables for four levels of departmental courses, ensuring no conflicts with faculty or inter-level courses. This allowed students to retake exams from different levels without scheduling conflicts.
+- Conducted analysis and comparison of research findings against benchmark data to calculate statistically significant changes, contributing to 4 electronic engineering research papers for publications and conferences.
+- Automated calculating course grades and CGPA for 5 courses and over 400 students across 4 levels, reducing labour hours and improving data quality.
+- Digitized 10 years of student grade records and established validated data collection processes for new records in Excel, making data retrieval easy for further analysis.
+- Designed exam timetables for 4 levels of departmental courses, ensuring no conflicts with faculty or inter-level courses, enabling students to retake exams from different levels without scheduling conflicts.
+
 
 
 ## Research Publications
