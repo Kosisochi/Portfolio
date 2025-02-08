@@ -15,6 +15,8 @@
 
 **Data Visualization Projects (SQL, PowerBI, Excel)**
 
+[Income & Expendtiure Dashboard](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Income%20%26%20Expenditure%20Dashboard%20Project)
+
 [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
 [Top UK YouTubers in 2024 Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Top%20UK%20YouTubers%20Project)
