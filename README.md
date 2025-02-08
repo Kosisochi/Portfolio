@@ -9,15 +9,18 @@
 -[Research Publications](#research-publications)
 
 # Portfolio Projects
-**Data Science Project (Python) -**  
+**Data Science Projects (Python, Tensorflow, Keras, Scikit-Learn)**  
+
 [Text Classification for Hate Speech Detection](https://github.com/Kosisochi/Text_Classification)
 
-**Data Visualization Project (SQL, PowerBI, Excel) -** 
+**Data Visualization Projects (SQL, PowerBI, Excel)**
+
 [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
 [Top UK YouTubers in 2024 Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Top%20UK%20YouTubers%20Project)
 
-**Data Cleaning & Exploration (SQL) -** 
+**Data Cleaning & Exploration Projects (SQL)** 
+
 [Covid Vaccination Data Exploration](https://github.com/Kosisochi/DataAnalysisPortfolio/blob/main/Covid%20Vaccination%20Data%20Exploration%20in%20SQL.sql)
 
 [Housing Data Cleaning](https://github.com/Kosisochi/DataAnalysisPortfolio/blob/main/Housing%20Data%20Cleaning%20SQL.sql)
