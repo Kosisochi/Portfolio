@@ -15,7 +15,7 @@
 
 **Data Visualization Projects (SQL, PowerBI, Excel)**
 
-[Income & Expendtiure Dashboard](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Income%20%26%20Expenditure%20Dashboard%20Project)
+[Income & Expenditure Dashboard](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Income%20%26%20Expenditure%20Dashboard%20Project)
 
 [ Myntra Product Catalog Project](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Myntra%20Product%20Catalog%20Project)
 
