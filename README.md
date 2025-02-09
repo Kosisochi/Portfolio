@@ -13,6 +13,8 @@
 
 [Text Classification for Hate Speech Detection](https://github.com/Kosisochi/Text_Classification)
 
+[Hate Speech Detection Using Emotional Embedding Features](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Hate%20Speech%20Detection%20Using%20Emotional%20Embedding%20Features)
+
 **Data Visualization Projects (SQL, PowerBI, Excel)**
 
 [Income & Expenditure Dashboard](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Income%20%26%20Expenditure%20Dashboard%20Project)
