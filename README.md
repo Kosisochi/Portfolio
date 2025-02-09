@@ -15,6 +15,8 @@
 
 [Hate Speech Detection Using Emotional Embedding Features](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Hate%20Speech%20Detection%20Using%20Emotional%20Embedding%20Features)
 
+[Semi-Supervised Hate Target Detection](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Hate%20Speech%20Target%20Detection)
+
 **Data Visualization Projects (SQL, PowerBI, Excel)**
 
 [Income & Expenditure Dashboard](https://github.com/Kosisochi/DataAnalysisPortfolio/tree/main/Income%20%26%20Expenditure%20Dashboard%20Project)
